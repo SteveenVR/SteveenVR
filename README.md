@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Bryan Reyes
 - 😄 I'm a Computer Systems Engineer
 - 👀 I'm interested in the development of web applications with payment gateways and the deployment of applications in the cloud.
-- 🌱 I’m currently learning and practicing Laravel with Tailwind
+- 🌱 I’m currently learning and practicing Laravel with blade and Tailwind
 - 📫 More about me on website steveenvr.netlify.app/ 
